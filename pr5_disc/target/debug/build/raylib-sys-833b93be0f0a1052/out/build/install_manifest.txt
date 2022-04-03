@@ -1,0 +1,9 @@
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/lib/libraylib.a
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/include/raylib.h
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/include/rlgl.h
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/include/physac.h
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/include/raymath.h
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/include/raudio.h
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/lib/pkgconfig/raylib.pc
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/lib/cmake/raylib/raylib-config-version.cmake
+/home/pepe/Rust_applications/YuliaDream/pr5/target/debug/build/raylib-sys-833b93be0f0a1052/out/lib/cmake/raylib/raylib-config.cmake

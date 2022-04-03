@@ -1,0 +1,5 @@
+/home/pepe/Rust_applications/YuliaDream/pr5_sphere/target/debug/deps/num_traits-7093662ed0995d68.rmeta: /home/pepe/.cargo/registry/src/github.com-1ecc6299db9ec823/num-traits-0.1.43/src/lib.rs
+
+/home/pepe/Rust_applications/YuliaDream/pr5_sphere/target/debug/deps/num_traits-7093662ed0995d68.d: /home/pepe/.cargo/registry/src/github.com-1ecc6299db9ec823/num-traits-0.1.43/src/lib.rs
+
+/home/pepe/.cargo/registry/src/github.com-1ecc6299db9ec823/num-traits-0.1.43/src/lib.rs:
